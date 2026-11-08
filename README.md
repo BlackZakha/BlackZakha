@@ -7,7 +7,7 @@
 
 - 🧠 Разрабатываю в направлении **OSDev**: Rust и ASM
 - 🌐 Делаю fullstack-приложения на **C# / ASP.NET / EF Core + React**
-- 🖥️ Разрабатываю desktop-приложения на **Avalonia**
+- 🖥️ Разрабатываю desktop-приложения на **Avalonia** и **Tauri**
 - 🐍 Использую **Python** и **HTML/CSS/JS** для задач, прототипов и экспериментов
 
 ## 🛠️ Мой стек
@@ -26,6 +26,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=fff)
 
 ### Направления
 
@@ -34,7 +35,7 @@
 | OSDev | Rust, Assembly |
 | Backend | C#, ASP.NET, EF Core |
 | Frontend | React, HTML, CSS, JavaScript |
-| Desktop | C#, Avalonia |
+| Desktop | C#, Avalonia, Rust, Tauri |
 | Scripts | Python |
 
 ## 📫 Связаться со мной
